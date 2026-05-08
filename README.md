@@ -52,6 +52,8 @@ Linux
 
 ## GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bdunbar)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bdunbar&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bdunbar&layout=compact&theme=dark)
