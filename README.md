@@ -7,6 +7,10 @@ Nashville, TN
 
 ---
 
+![GitHub Created](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bdunbar&query=$.created_at&label=github%20created)
+
+---
+
 ## Current Focus
 
 - Kubernetes operations
