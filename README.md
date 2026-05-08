@@ -7,7 +7,7 @@ Nashville, TN
 
 ---
 
-![Account Created](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bdunbar&query=$.created_at&label=github%20created)
+![Account Created](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bdunbar&query=$.created_at&label=Account%20created)
 
 ---
 
