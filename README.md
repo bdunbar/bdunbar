@@ -48,15 +48,6 @@ Linux
 - Domestic waterfowl logistics
 - Turning operational pain into automation
 
----
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bdunbar)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bdunbar&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bdunbar&layout=compact&theme=dark)
 
 ---
 
@@ -64,6 +55,6 @@ Linux
 
 ```text
 duck_feeding_latency_seconds      nominal
-coffee_dependency                 critical
-pager_fatigue                     manageable
+coffee_dependency                 manageable
+pager_fatigue                     low
 ```
